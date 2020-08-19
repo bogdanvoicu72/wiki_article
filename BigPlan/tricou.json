@@ -1,0 +1,36 @@
+{
+    "tricou": [
+        {
+            "model": "First t-shirt Summer 2020",
+            "brand": "Nike",
+            "tip_produs": "tricou",
+            "Time Creation": "2020-08-18 20:33:04",
+            "Index": 0,
+            "Previous_Hash": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        {
+            "model": "Summer 2020 Green color",
+            "brand": "Nike",
+            "tip_produs": "tricou",
+            "Time Creation": "2020-08-18 20:33:04",
+            "Index": 1,
+            "Previous_Hash": "b6f0cd82554d601ea0be60d091652e79ce2e421245f36c5baa50db2e9c65a617"
+        },
+        {
+            "model": "Summer 2020 Green color",
+            "brand": "Nike",
+            "tip_produs": "tricou",
+            "Time Creation": "2020-08-18 20:33:04",
+            "Index": 2,
+            "Previous_Hash": "7f00b24f9b827bf213bb49ed136df8b96f2c1394df6c4f8a21846b3dfbc49d46"
+        },
+        {
+            "model": "Summer 2020 Green color",
+            "brand": "Nike",
+            "tip_produs": "tricou",
+            "Time Creation": "2020-08-18 20:33:04",
+            "Index": 3,
+            "Previous_Hash": "9d872090ce07f1ad068f637853052607781bf4cf8ec81767894d17b9ab32120a"
+        }
+    ]
+}
